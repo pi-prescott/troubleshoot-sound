@@ -1,0 +1,5 @@
+card 0: PCH [HDA Intel PCH]
+card 1: NVidia [HDA NVidia]
+card 1: NVidia [HDA NVidia], device 10: HDMI 4 [HDMI 4]
+card 1: NVidia [HDA NVidia], device 11: HDMI 5 [HDMI 5]
+card 1: NVidia [HDA NVidia], device 12: HDMI 6 [HDMI 6]
